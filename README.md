@@ -1,16 +1,22 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy [Tu Nombre]
+Desarrollador Backend con experiencia en Node.js | Construyendo APIs robustas y escalables. Aunque estoy al inicio de mi carrera profesional, he invertido mucho tiempo en aprender y aplicar las mejores prácticas del desarrollo backend.
 
-<!--
-**pablete18/pablete18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Habilidades
+- **Lenguajes:** JavaScript (ES6+), HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Bases de Datos:** MySQL
+- **Herramientas y Otros:** Git, RESTful APIs
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contacto
+- https://www.linkedin.com/in/pablo-alcaraz-6b367323a/?trk=opento_sprofile_details
+- pabloealcaraz@gmail.com
+
+### 🌱 Actualmente estoy
+- Trabajando en proyectos personales y contribuyendo a código abierto.
+- Buscando oportunidades para aplicar mis habilidades en un entorno profesional.
+
+### 📂 Proyectos Destacados
+- [APP de Gestión de Tareas](https://github.com/pablete18/AppTareasExpress)
+- [E-Commerce para venta de hardware de computacion](https://github.com/LucasIbanez13/Grupo10-FullGaming)
+- [Landing Page para cliente]((https://github.com/pablete18/ldpgSa001))
