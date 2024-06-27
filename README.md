@@ -18,5 +18,5 @@ Desarrollador Backend con experiencia en Node.js | Construyendo APIs robustas y 
 
 ### 📂 Proyectos Destacados
 - [APP de Gestión de Tareas](https://github.com/pablete18/AppTareasExpress)
-- [E-Commerce para venta de hardware de computacion](https://github.com/LucasIbanez13/Grupo10-FullGaming)
+- [E-Commerce para venta de hardware de computacion]([https://github.com/LucasIbanez13/Grupo10-FullGaming](https://github.com/LucasIbanez13/Grupo10-FullGaming/tree/develop))
 - [Landing Page para cliente]((https://github.com/pablete18/ldpgSa001))
